@@ -5,12 +5,12 @@ function doPost(e) {
   
   
    // Save the photo to Google Drive
-  var folder, folders = DriveApp.getFoldersByName("ESP32-CAM");
+  var folder, folders = DriveApp.getFoldersByName("ESP32-Audio");
   if (folders.hasNext()) {
     folder = folders.next();
   } else {
-    folder = DriveApp.createFolder("ESP32-CAM");
+    folder = DriveApp.createFolder("ESP32-Audio");
   }
   var file = folder.createFile(blob); 
-  return ContentService.createTextOutput('Completo')
+  return ContentService.createTextOutput('Finit-o')
 }
