@@ -1,3 +1,5 @@
+// https://nodejs.org/api/stream.html#stream_buffering
+
 function doPost(e) {
   var data = Utilities.base64Decode(e.parameters.data);
   var fileName = Utilities.formatDate(new Date(), "GMT-3", "yyyyMMdd_HHmmss")+".jpg";
