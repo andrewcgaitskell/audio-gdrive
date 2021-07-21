@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=qmruNKeIN-o&t=844s
 
 
 https://gitlab.unizar.es/761347/esp-idf/-/blob/v3.1-dev/examples/peripherals/i2s_adc_dac/main/app_main.c
+
+
+https://www.hackster.io/julianso/esp32-voice-streamer-52bd7e
+
