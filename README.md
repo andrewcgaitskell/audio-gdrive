@@ -13,4 +13,7 @@ Upload an wav file directly from ESP32 to Google Drive
 
 ### reference links
 
+https://www.youtube.com/watch?v=qmruNKeIN-o&t=844s
+
+
 https://gitlab.unizar.es/761347/esp-idf/-/blob/v3.1-dev/examples/peripherals/i2s_adc_dac/main/app_main.c
