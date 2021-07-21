@@ -1,6 +1,6 @@
-# esp32cam-gdrive
+# audio-gdrive
 
-Upload an image directly from ESP32-CAM to Google Drive
+Upload an wav file directly from ESP32 to Google Drive
 
 ## How to use
 
