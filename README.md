@@ -21,3 +21,7 @@ https://gitlab.unizar.es/761347/esp-idf/-/blob/v3.1-dev/examples/peripherals/i2s
 
 https://www.hackster.io/julianso/esp32-voice-streamer-52bd7e
 
+
+https://nodejs.org/api/stream.html#stream_buffering
+
+
